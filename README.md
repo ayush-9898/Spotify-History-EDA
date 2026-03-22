@@ -142,6 +142,3 @@ jupyter notebook Finalcode.ipynb
 
 A full written EDA report (`Spotify_EDA_Report.docx`) is included, detailing methodology, visualizations, insights, and conclusions drawn from the analysis.
 
----
-
-> 📊 Project by **Ayush Sahu** | Personal Spotify data analysis (2013–2024)
